@@ -3,6 +3,6 @@ Conteúdo desenvolvido na 4ª edição da Imersão Dados, promovido pela Alura e
 
 Tudo para que, ao final, tivéssemos um projeto para publicar no portfólio.
 
-Tentei fazer os mapas da aula 4 no Colab, mas acho que eles eram muito pesados e demoravam demais, por isso a conxão com o servidor caia. Procurei no Discord da imersão se mais alguém estava com o mesmo problema e vi sugestões de elaborar os mapas no Kaggle, seguindo esta instrução, procurei a base de dados sobre os imóveis de São Paulo no Kaggle, criei o notebook, adicionei datasets desenvolvidos na quarta aula para a elaboração dos mapas e, depois de muito tempo, consegui criar os mapas.
+Tentei fazer os mapas da aula 4 no Colab, mas acho que eles eram muito pesados e demoravam demais, por isso a conexão com o servidor caia. Procurei no Discord da imersão se mais alguém estava com o mesmo problema e vi sugestões de elaborar os mapas no Kaggle, seguindo esta instrução, procurei a base de dados sobre os imóveis de São Paulo no Kaggle, criei o notebook, adicionei datasets desenvolvidos na quarta aula para a elaboração dos mapas e, depois de muito tempo, consegui criar os mapas.
 
 O link para o notebook do Kaggle é este: https://www.kaggle.com/code/fabianadesouza/imersao-dados-4
